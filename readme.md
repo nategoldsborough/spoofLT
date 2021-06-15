@@ -3,6 +3,8 @@
 (BETA - In Development)
 
 
+# 2021 Update. I should preface this by saying please do not try to steal peoples credentials. Its probably illegal where you live and I do not condone it. This was made purely as an experiment trying to make a webpage look like a windows 7 lockscreen and to test my abilities at web development. Lets just say i was bad at it and move on. This repo is kept here as an archive but will never be updated in the future. Seriously don't steal peoples login info. Don't. Do. It. Period.
+
 
 For Windows instalations using a custom login background please navigate to the following local file path:
 - `C:\\Windows\System 32\oobe\Info\Backgrounds`
